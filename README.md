@@ -21,7 +21,7 @@ I'm an IT student focused on **embedded systems**. My goal is to become an **Emb
 ### 🚀 Key Projects
 
 #### 1. myESPFeeder 🐾 | [View Repository](https://github.com/yourshoji/myESPFeeder)
-A smart IoT pet feeder built on the ESP32 platform with Blynk accessible.
+A smart IoT pet feeder built on the ESP32 platform with Blynk integration.
 
 * **What it does:** Supports remote or in-person feeding and scheduled feeding through Blynk.
 * **Tech Stack:** `ESP32`, `C++ (Arduino)`, `Blynk`, `Servo`, `RTC Module`, `LCD`
