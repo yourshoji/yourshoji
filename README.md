@@ -24,13 +24,13 @@ I'm an IT student focused on **embedded systems**. My goal is to become an **Emb
 A smart IoT pet feeder built on the ESP32 platform with Blynk integration.
 
 * **What it does:** Supports remote or in-person feeding and scheduled feeding through Blynk.
-* **Tech Stack:** `ESP32`, `C++ (Arduino)`, `Blynk`, `Servo`, `RTC Module`, `LCD`
+* **Tech Stack:** `ESP32` • `C++ (Arduino)` • `Blynk` • `Servo` • `RTC Module` • `LCD`
 
 #### 2. myShinEn 🎮 | [View Repository](https://github.com/yourshoji/myShinEn)
 A collaborative point-and-click horror game built with `Godot`.
 
 * **My Contribution:** I am the **Project Lead** on a small team, responsible for the core programming, game design, and project management.
-* **Key Systems I Built:** `Inventory System` • `UI System & Design` • `Jumpscare System & Design` • `Map & Environment Design` • `Item Interaction System` • `Scene Transition System & Design`
+* **Key Systems I Built:** `Inventory System`, `UI System & Design`, `Jumpscare System & Design`, `Map & Environment Design`, `Item Interaction System`, `Scene Transition System & Design`
 * **Tech Stack:** `Godot` • `GDScript`
 
 ---
