@@ -33,6 +33,14 @@ A collaborative point-and-click horror game built with `Godot`.
 * **Key Systems I Built:** `Inventory System`, `UI System & Design`, `Jumpscare System & Design`, `Map & Environment Design`, `Item Interaction System`, `Scene Transition System & Design`
 * **Tech Stack:** `Godot` • `GDScript`
 
+#### 3. myESPFeeder-OOP 🐾🧮 | [View Repository](https://github.com/yourshoji/myESPFeeder-OOP)
+An object-oriented rework of my previous **myESPFeeder** project, rewritten with a focus on cleaner structure and modular design.  
+This version keeps the same functionality but improves code organization and maintainability.
+
+* **What it does:** Automates feeding schedules and manual control using ESP32, RTC, LCD, and Blynk connectivity.  
+* **Focus:** Demonstrates OOP principles in embedded system design for improved scalability and readability.  
+* **Tech Stack:** `ESP32` • `C++ (OOP)` • `PlatformIO` • `Blynk` • `Servo` • `RTC Module` • `LCD`
+
 ---
 
 ### 🌐 Communication
