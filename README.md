@@ -62,4 +62,4 @@ A fork of the ESP8266 TV-B-Gone project, updated for ESP32 with a simpler design
 * **Thai:** Native
 
 ---
-> “Great engineers aren’t born — they just debug their lives until it compiles.”
+> “Nothing is as permanent as a temporary solution that works.”
