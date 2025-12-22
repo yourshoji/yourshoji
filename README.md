@@ -36,12 +36,14 @@ This version keeps the same functionality but improves code organization and mai
 * **Tech Stack:** `ESP32` • `C++ (OOP)` • `PlatformIO` • `Blynk` • `Servo` • `RTC Module` • `LCD`
 <br>
 
-#### 3. myShinEn 🎮 | [View Repository](https://github.com/yourshoji/myShinEn)
-A collaborative point-and-click horror game built with `Godot`.
+#### 3. My Little Wish 🎮 | *Submission Build (3 weeks)*  
+A psychological horror **walking simulator** focused on environmental storytelling, looping progression, and atmosphere, built with `Unity`.
 
-* **My Contribution:** I am the **Project Lead** on a small team, responsible for the core programming, game design, and project management.
-* **Key Systems I Built:** `Inventory System`, `UI System & Design`, `4,Jumpscare System & Design`, `Map & Environment Design`, `Item Interaction System`, `Scene Transition System & Design`
-* **Tech Stack:** `Godot` • `GDScript`
+* **My Contribution:** Core developer responsible for gameplay systems, loop structure, visual effects, audio integration, and overall implementation.
+* **Key Systems I Built:**  
+  `Gameplay Loop System`, `Jump Scare System & Manager`, `Door & Interaction Systems`, `Lighting & Atmosphere Systems`, `Ghost AI Behaviour`, `Audio Systems`, `Post-Processing & Visual Effects`
+* **Additional Work:** Map implementation, environment decoration, AI-generated narrative assets, sound design and audio editing.
+* **Tech Stack:** `Unity` • `C#`
 <br>
 
 #### 4. ESP32-TV-B-Gone 📺 | [View Repository](https://github.com/yourshoji/TV-B-Gone.ESP32)
