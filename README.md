@@ -36,7 +36,7 @@ This version keeps the same functionality but improves code organization and mai
 * **Tech Stack:** `ESP32` • `C++ (OOP)` • `PlatformIO` • `Blynk` • `Servo` • `RTC Module` • `LCD`
 <br>
 
-#### 3. My Little Wish 🎮 | *Submission Build (3 weeks)*  
+#### 3. My Little Wish 🎮 | *Submission Build (3 weeks)* [View Website](https://yourshoji.itch.io/my-little-wish)
 A psychological horror **walking simulator** focused on environmental storytelling, looping progression, and atmosphere, built with `Unity`.
 
 * **My Contribution:** Core developer responsible for gameplay systems, loop structure, visual effects, audio integration, and overall implementation.
