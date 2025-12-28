@@ -12,8 +12,8 @@ I'm an IT student focused on **embedded systems**. My goal is to become an **Emb
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C++ (via Arduino Framework)` • `C (HAL Framework)` • `C# (Unity)` |
-| **Platforms** | `Arduino` • `ESP32` • `STM32` • `Unity` • `KiCad` |
+| **Languages** | `C++ (Arduino, ESP-IDF)` • `C (STM32 HAL)` • `C# (Unity)` |
+| **Platforms** | `ESP32` • `STM32 (CubeMX, CubeIDE)` • `Arduino` • `Unity` • `KiCad` |
 | **Interests** | `Robotics & Automation` • `IoT Systems` • `Aerospace` • `Game Development` |
 
 ---
