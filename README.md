@@ -58,7 +58,7 @@ A high-stability, plug-and-play port of MatAtBread’s web-based oscilloscope, r
 
 ### 🌐 Communication
 
-* **English:** Professional Working Proficiency (TOEIC: 820)
+* **English:** Professional Working Proficiency (TOEIC: 820) #2023
 * **Japanese:** Basic Proficiency (JLPT: N5)
 * **Thai:** Native
 
