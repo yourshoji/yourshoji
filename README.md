@@ -28,11 +28,11 @@ This version keeps the same functionality but improves code organization and mai
 * **Focus:** Demonstrates OOP principles in embedded system design for improved scalability and readability.  
 * **Tech Stack:** `ESP32` • `C++ (OOP)` • `PlatformIO` • `Blynk` • `Servo` • `RTC Module` • `LCD`
 <br><br>
-#### 2. My Little Wish 🎮 | *Submission Build (3 weeks)* [View Website](https://yourshoji.itch.io/my-little-wish)
+#### 2. My Little Wish 🎮 | *Submission Build (3 weeks) • Full Release (~2 months)* [View Website](https://yourshoji.itch.io/my-little-wish)
 A psychological horror **walking simulator** focused on environmental storytelling, looping progression, and atmosphere, built with `Unity`.
-* **My Contribution:** Core developer responsible for gameplay systems, loop structure, visual effects, audio integration, and overall implementation.
+* **Role:** Gameplay Systems Developer & Experience Designer
 * **Key Systems I Built:**  
-  `Gameplay Loop System`, `Jump Scare System & Manager`, `Door & Interaction Systems`, `Lighting & Atmosphere Systems`, `Ghost AI Behaviour`, `Audio Systems`, `Post-Processing & Visual Effects`
+  `Gameplay Interaction & Behaviour Systems`, `Loop Progression & Transition System`, `Event & Trigger Architecture`, `Gameplay Direction`, `Sound & Atmosphere Design`, `Post-Processing & Visual Effects`
 * **Additional Work:** Map implementation, environment decoration, AI-generated narrative assets, sound design and audio editing.
 * **Tech Stack:** `Unity` • `C#`
 <br><br>
@@ -59,7 +59,7 @@ A high-stability, plug-and-play port of MatAtBread’s web-based oscilloscope, r
 ### 🌐 Communication
 
 * **English:** Professional Working Proficiency (TOEIC: 820) #2023
-* **Japanese:** Basic Proficiency (JLPT: N5)
+* **Japanese:** Basic Proficiency (JLPT: N5) #2025
 * **Thai:** Native
 
 ---
