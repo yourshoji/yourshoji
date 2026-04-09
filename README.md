@@ -20,7 +20,7 @@ I'm an IT student focused on **embedded systems**. My goal is to become an **Emb
 
 ### 🚀 Key Projects
 
-#### 1. myESPFeeder-OOP 🐾🧮 | [View Repository](https://github.com/yourshoji/myESPFeeder-OOP)
+#### 1. ESP-Feeder-OOP 🐾🧮 | [View Repository](https://github.com/yourshoji/myESPFeeder-OOP)
 An object-oriented rework of my previous **myESPFeeder** project, rewritten with a focus on cleaner structure and modular design.  
 This version keeps the same functionality but improves code organization and maintainability.
 
@@ -36,7 +36,7 @@ A psychological horror **walking simulator** focused on environmental storytelli
 * **Additional Work:** Map implementation, environment decoration, AI-generated narrative assets, sound design and audio editing.
 * **Tech Stack:** `Unity` • `C#`
 <br><br>
-#### 3. ESP32-TV-B-Gone 📺 | [View Repository](https://github.com/yourshoji/TV-B-Gone.ESP32)
+#### 3. ESP-TV-B-Gone 📺 | [View Repository](https://github.com/yourshoji/TV-B-Gone.ESP32)
 A fork of the ESP8266 TV-B-Gone project, updated for ESP32 with a simpler design and modernized hardware.
 * **What it does:** Fires the complete IR power-off code set in ~68 seconds with long-range output.
 * **Simplified Hardware:** Full redesign using **TSAL6400** IR LEDs and an **IRLB8721** NMOS.
@@ -52,7 +52,14 @@ A high-stability, plug-and-play port of MatAtBread’s web-based oscilloscope, r
 * **Stability Overhaul:** Solved "Black Screen" and "Silent Reboot" bugs by moving telemetry buffers to **Static RAM** and implementing **LRU socket recycling**.
 * **Plug-and-Play:** Zero-config setup with a simplified ADC DMA driver and an auto-connecting WebSocket handshake.
 * **Tech Stack:** `ESP32 (WROOM)` • `ESP-IDF` • `WebSockets` • `DMA ADC`
+<br><br>
+#### 5. Archery Performance Analytics (APA) 🎯 | [View Repository](https://github.com/yourshoji/APA)
+A high-performance terminal utility designed for professional scoring and precision tracking across international target standards.
 
+* **What it does:** Automates accuracy calculations for 5, 6, and 10-ring target scales with real-time performance analytics.
+* **Engineering Focus:** Built as a demonstration of Memory Safety and Build Automation. Implements dynamic memory management and a fail-safe input pipeline to handle malformed data entry.
+* **Architecture:** Utilizes an Out-of-Source Build pattern with CMake, ensuring the core engine is decoupled from environment-specific binaries and OS-level pathing.
+* **Tech Stack:** `C11` • `CMake` • `Memory Management` • `CLI UX` • `Data Validation`
 
 ---
 
@@ -61,6 +68,3 @@ A high-stability, plug-and-play port of MatAtBread’s web-based oscilloscope, r
 * **English:** Professional Working Proficiency (TOEIC: 820) #2023
 * **Japanese:** Basic Proficiency (JLPT: N5) #2025
 * **Thai:** Native
-
----
-> “Nothing is as permanent as a temporary solution that works.”
