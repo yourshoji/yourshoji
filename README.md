@@ -3,7 +3,6 @@
 I'm an IT student focused on **embedded systems**. My goal is to become an **Embedded Software Engineer** who builds smart, efficient, and reliable systems.
 
 * 💼 Open to internships and collaborations.
-* 📫 **[LinkedIn] https://www.linkedin.com/in/kamolphop-sangpeng/**
 * 🧠 **[Email] k.sangpeng.dev@gmail.com**
 
 ---
