@@ -30,6 +30,7 @@ This version keeps the same functionality but improves code organization and mai
 <br><br>
 #### 2. My Little Wish 🎮 | *Submission Build (3 weeks) • Full Release (~2 months)* [View Website](https://yourshoji.itch.io/my-little-wish)
 A psychological horror **walking simulator** focused on environmental storytelling, looping progression, and atmosphere, built with `Unity`.
+
 * **Role:** Gameplay Systems Developer & Experience Designer
 * **Key Systems I Built:**  
   `Gameplay Interaction & Behaviour Systems`, `Loop Progression & Transition System`, `Event & Trigger Architecture`, `Gameplay Direction`, `Sound & Atmosphere Design`, `Post-Processing & Visual Effects`
@@ -38,27 +39,21 @@ A psychological horror **walking simulator** focused on environmental storytelli
 <br><br>
 #### 3. ESP-TV-B-Gone 📺 | [View Repository](https://github.com/yourshoji/TV-B-Gone.ESP32)
 A fork of the ESP8266 TV-B-Gone project, updated for ESP32 with a simpler design and modernized hardware.
+
 * **What it does:** Fires the complete IR power-off code set in ~68 seconds with long-range output.
 * **Simplified Hardware:** Full redesign using **TSAL6400** IR LEDs and an **IRLB8721** NMOS.
-* **New Documentation:** Includes an updated circuit diagram, pin layout, and real-model build photos.
-* **Straightforward Code:** Region switching removed for a cleaner setup focused on learning and reuse.
 * **Tech Stack:** `ESP32` • `C++ (Arduino)` • `TSAL6400` • `IRLB8721`
 <br><br>
-#### 4. ESP-Scope (WROOM Port) 📈 | [View Repository](https://github.com/yourshoji/esp-scope-wroom32)
-A high-stability, plug-and-play port of MatAtBread’s web-based oscilloscope, redesigned specifically for the **Classic ESP32 (WROOM-32D)**.
+#### 4. MorseTransceiver-32 💬 | [View Repository](https://github.com/yourshoji/MorseTransceiver-32)
+A Morse code transceiver based on STM32F103 (Blue PIll), written in HAL-based embedded C.
 
-* **What it does:** Real-time signal visualization through a web browser using a 20kHz–83kHz sampling rate.
-* **Architecture Fix:** Fully migrated from the original RISC-V (C6) design to **Xtensa hardware**, fixing driver crashes and board-init errors common in standard WROOM boards.
-* **Stability Overhaul:** Solved "Black Screen" and "Silent Reboot" bugs by moving telemetry buffers to **Static RAM** and implementing **LRU socket recycling**.
-* **Plug-and-Play:** Zero-config setup with a simplified ADC DMA driver and an auto-connecting WebSocket handshake.
-* **Tech Stack:** `ESP32 (WROOM)` • `ESP-IDF` • `WebSockets` • `DMA ADC`
+* **What it does:** Transmits automated or manual Morse code using hardware timers, decodes incoming signals via an LDR, and features an OLED UI.
+* **Tech Stack:** `STM32 HAL` • `C` • `PlatformIO` • `Timers` • `ADC` • `I2C` • `State Machines` 
 <br><br>
 #### 5. Archery Performance Analytics (APA) 🎯 | [View Repository](https://github.com/yourshoji/APA)
 A high-performance terminal utility designed for professional scoring and precision tracking across international target standards.
 
 * **What it does:** Automates accuracy calculations for 5, 6, and 10-ring target scales with real-time performance analytics.
-* **Engineering Focus:** Built as a demonstration of Memory Safety and Build Automation. Implements dynamic memory management and a fail-safe input pipeline to handle malformed data entry.
-* **Architecture:** Utilizes an Out-of-Source Build pattern with CMake, ensuring the core engine is decoupled from environment-specific binaries and OS-level pathing.
 * **Tech Stack:** `C11` • `CMake` • `Memory Management` • `CLI UX` • `Data Validation`
 
 ---
