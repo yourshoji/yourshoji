@@ -11,9 +11,10 @@ I'm an IT student focused on **embedded systems**. My goal is to become an **Emb
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | `C++ (Arduino, ESP-IDF)` • `C (STM32 HAL)` • `C# (Unity)` |
-| **Platforms** | `PlatformIO (main)` • `STM32 (CubeMX, CubeIDE, STMStudio)` • `Arduino` • `KiCad` • `Unity` |
-| **Interests** | `Robotics & Automation` • `IoT Systems` • `Aerospace` • `Game Development` |
+| **Languages** | `C (HAL & bare-metal)` • `C++ (Arduino, ESP-IDF)` • `C# (Unity)` |
+| **Embedded**  | `STM32 (bare-metal register-level, CubeMX, CubeIDE)` • `Arduino/ESP32` |
+| **Tools**     | `KiCad` • `GDB/OpenOCD` • `Git` • `Make` |
+| **Interests** | `Robotics & Automation` • `IoT Systems` • `Aerospace` • `Game Development (Unity & Godot)`|
 
 ---
 
@@ -47,7 +48,7 @@ A fork of the ESP8266 TV-B-Gone project, updated for ESP32 with a simpler design
 A Morse code transceiver based on STM32F103 (Blue PIll), written in HAL-based embedded C.
 
 * **What it does:** Transmits automated or manual Morse code using hardware timers, decodes incoming signals via an LDR, and features an OLED UI.
-* **Tech Stack:** `STM32 HAL` • `C` • `PlatformIO` • `Timers` • `ADC` • `I2C` • `State Machines` 
+* **Tech Stack:** `HAL & bare-metal` • `C` • `Timers` • `ADC` • `I2C` • `State Machines` 
 <br><br>
 #### 5. Archery Performance Analytics (APA) 🎯 | [View Repository](https://github.com/yourshoji/APA)
 A high-performance terminal utility designed for professional scoring and precision tracking across international target standards.
