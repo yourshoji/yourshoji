@@ -20,26 +20,20 @@ I'm an IT student focused on **embedded systems**. My goal is to become an **Emb
 
 ### 🚀 Key Projects
 
-#### 1. ESP-TV-B-Gone 📺 | [View Repository](https://github.com/yourshoji/TV-B-Gone.ESP32)
+#### 1. MorseTransceiver-32 💬 | [View Repository](https://github.com/yourshoji/MorseTransceiver-32)
+A Morse code transceiver based on STM32F103 (Blue PIll), written in HAL-based and bare-metal (register-level) C.
+
+* **What it does:** Transmits automated or manual Morse code using hardware timers, decodes incoming signals via an LDR, and features an OLED UI.
+* **Tech Stack:** `HAL & bare-metal` • `C` • `Timers` • `ADC` • `I2C` • `State Machines` 
+<br><br>
+#### 2. ESP-TV-B-Gone 📺 | [View Repository](https://github.com/yourshoji/TV-B-Gone.ESP32)
 A fork of the ESP8266 TV-B-Gone project, updated for ESP32 with a simpler design and modernized hardware.
 
 * **What it does:** Fires the complete IR power-off code set in ~68 seconds with long-range output.
 * **Simplified Hardware:** Full redesign using **TSAL6400** IR LEDs and an **IRLB8721** NMOS.
 * **Tech Stack:** `ESP32` • `C++ (Arduino)` • `TSAL6400` • `IRLB8721`
 <br><br>
-#### 2. MorseTransceiver-32 💬 | [View Repository](https://github.com/yourshoji/MorseTransceiver-32)
-A Morse code transceiver based on STM32F103 (Blue PIll), written in HAL-based embedded C.
-
-* **What it does:** Transmits automated or manual Morse code using hardware timers, decodes incoming signals via an LDR, and features an OLED UI.
-* **Tech Stack:** `HAL & bare-metal` • `C` • `Timers` • `ADC` • `I2C` • `State Machines` 
-<br><br>
-#### 3. Archery Performance Analytics (APA) 🎯 | [View Repository](https://github.com/yourshoji/APA)
-A high-performance terminal utility designed for professional scoring and precision tracking across international target standards.
-
-* **What it does:** Automates accuracy calculations for 5, 6, and 10-ring target scales with real-time performance analytics.
-* **Tech Stack:** `C11` • `CMake` • `Memory Management` • `CLI UX` • `Data Validation`
-<br><br>
-#### 4. ESP-Feeder-OOP 🐾🧮 | [View Repository](https://github.com/yourshoji/myESPFeeder-OOP)
+#### 3. ESP-Feeder-OOP 🐾🧮 | [View Repository](https://github.com/yourshoji/myESPFeeder-OOP)
 An object-oriented rework of my previous **myESPFeeder** project, rewritten with a focus on cleaner structure and modular design.  
 This version keeps the same functionality but improves code organization and maintainability.
 
@@ -47,7 +41,7 @@ This version keeps the same functionality but improves code organization and mai
 * **Focus:** Demonstrates OOP principles in embedded system design for improved scalability and readability.  
 * **Tech Stack:** `ESP32` • `C++ (OOP)` • `PlatformIO` • `Blynk` • `Servo` • `RTC Module` • `LCD`
 <br><br>
-#### 5. My Little Wish 🎮 | *Submission Build (3 weeks) • Full Release (~2 months)* [View Website](https://yourshoji.itch.io/my-little-wish)
+#### 4. My Little Wish 🎮 | *Submission Build (3 weeks) • Full Release (~2 months)* [View Website](https://yourshoji.itch.io/my-little-wish)
 A psychological horror **walking simulator** focused on environmental storytelling, looping progression, and atmosphere, built with `Unity`.
 
 * **Role:** Gameplay Systems Developer & Experience Designer
@@ -55,6 +49,12 @@ A psychological horror **walking simulator** focused on environmental storytelli
   `Gameplay Interaction & Behaviour Systems`, `Loop Progression & Transition System`, `Event & Trigger Architecture`, `Gameplay Direction`, `Sound & Atmosphere Design`, `Post-Processing & Visual Effects`
 * **Additional Work:** Map implementation, environment decoration, AI-generated narrative assets, sound design and audio editing.
 * **Tech Stack:** `Unity` • `C#`
+<br><br>
+#### 5. Archery Performance Analytics (APA) 🎯 | [View Repository](https://github.com/yourshoji/APA)
+A high-performance terminal utility designed for professional scoring and precision tracking across international target standards.
+
+* **What it does:** Automates accuracy calculations for 5, 6, and 10-ring target scales with real-time performance analytics.
+* **Tech Stack:** `C11` • `CMake` • `Memory Management` • `CLI UX` • `Data Validation`
 <br><br>
 
 
