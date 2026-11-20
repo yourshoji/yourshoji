@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shoji
+# 👋 Hi, I'm Sho
 
 I'm an IT student focused on **embedded systems**. My goal is to become an **Embedded Software Engineer** who builds smart, efficient, and reliable systems.
 
